@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Abstract Tracker</string>
+    <string name="title_tracker_detail">Tracker Detail</string>
+
+</resources>
